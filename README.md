@@ -1,0 +1,2 @@
+# mygti-hub
+Practicing git
